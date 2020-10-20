@@ -1,2 +1,2 @@
 # HTML-CSS
- sites para treinar html/css
+Web Site com temática de bitcoin, criado para treinar bordas gradientes, icons e design básico.
